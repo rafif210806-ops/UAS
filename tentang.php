@@ -35,7 +35,7 @@
     <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
       <div class="navbar-nav">
         <a class="nav-link active" aria-current="page" href="#">Home</a>
-        <a class="nav-link" href="#">Tentang</a>
+        <a class="nav-link" href="tentang.php">Tentang</a>
         <a class="nav-link" href="#">Data Mahasiwa</a>
       </div>
     </div>
