@@ -5,15 +5,18 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
+    <style>
+      .navbar {
+        background: linear-gradient(to right, #fff176, #ffeb3b, #fdd835);
+      }
+    </style>
 </head>
 <body>
-    <nav class="navbar navbar-expand-lg bg-body-tertiary">
+    <nav class="navbar navbar-expand-lg bg-body-tertiary bg-warning">
   <div class="container-fluid">
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
   <div class="container-fluid">
-    <a class="navbar-brand w-100 text-center" href="#">
-      Politeknik Negeri Medan
-    </a>
+    <img src="image copy.png" class="img-fluid" alt="Politeknik Negeri Medan" style="height: 50px;">
 
     <button class="navbar-toggler position-absolute end-0 me-3"
       type="button"
@@ -36,7 +39,8 @@
     </div>
   </div>
 </nav>
-<div class="mx-auto p-2 bg-danger" style="width: 200px;"> Politeknik Negeri Medan</div>
+
+<div class="d-flex justify-content-center mx-auto p-2 w-auto p-3 bg-secondary" style="width: 200px;"> Politeknik Negeri Medan</div>
 <img src="image.png" class="img-fluid" alt="...">
 <div class="sejarah-container">
     <h2>Sejarah Politeknik Negeri Medan</h2>
