@@ -64,7 +64,7 @@
         <div class="navbar-nav">
           <a class="nav-link" href="index.php">Home</a>
           <a class="nav-link" href="tentang.php">Tentang</a>
-          <a class="nav-link" href="#">Data Mahasiwa</a>
+          <a class="nav-link" href="datamahasiswa.php">Data Mahasiwa</a>
         </div>
       </div>
     </div>
@@ -79,22 +79,21 @@
 
                     <h3 class="text-center mb-3">Tentang Kampus</h3>
                     <p class="text-center text-muted">
-                        Kampus kami merupakan institusi pendidikan yang berfokus pada pengembangan
-                        ilmu pengetahuan, teknologi, dan karakter mahasiswa.
+                        Polmed adalah Politeknik Negeri Medan, sebuah perguruan tinggi negeri vokasi di Sumatera Utara yang berfokus pada pendidikan praktis untuk menghasilkan lulusan siap kerja di berbagai bidang seperti Teknik (Mesin, Sipil, Elektro, Komputer & Informatika) dan Bisnis (Akuntansi, Administrasi Niaga), dikenal unggul dalam pendidikan vokasi dengan koneksi industri kuat, serta meraih peringkat tinggi di Indonesia.  
                     </p>
 
                     <hr>
 
                     <h5>Alamat</h5>
                     <p class="mb-3">
-                        Jl. Pendidikan No. 123, Kota Makassar, Sulawesi Selatan
+                        Jl. Almamater No.1, Padang Bulan, Kec. Medan Baru, Kota Medan, Sumatera Utara 20155
                     </p>
 
                     <h5>Kontak</h5>
                     <ul class="list-unstyled">
-                        <li>Email : info@kampus.ac.id</li>
-                        <li>Telepon : (0411) 123456</li>
-                        <li>WhatsApp : 0812-3456-7890</li>
+                        <li>Instagram : @official.polmed</li>
+                        <li>Telepon   : (061) 8210436</li>
+                        <li>WhatsApp  : 0812-3456-7890</li>
                     </ul>
 
                 </div>
