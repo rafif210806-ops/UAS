@@ -64,7 +64,7 @@
         <div class="navbar-nav">
           <a class="nav-link" href="index.php">Home</a>
           <a class="nav-link" href="tentang.php">Tentang</a>
-          <a class="nav-link" href="datamahasiswa.php">Data Mahasiwa</a>
+          <a class="nav-link" href="dt.php">Data Mahasiwa</a>
         </div>
       </div>
     </div>

@@ -36,7 +36,7 @@
         <div class="navbar-nav">
           <a class="nav-link" href="index.php">Home</a>
           <a class="nav-link" href="tentang.php">Tentang</a>
-          <a class="nav-link" href="datamahasiswa.php">Data Mahasiwa</a>
+          <a class="nav-link" href="dt.php">Data Mahasiwa</a>
         </div>
       </div>
     </div>
@@ -68,7 +68,7 @@
   </div>
 
   <div class="d-flex justify-content-center p-3 w-100 mb-2 bg-primary-subtle text-primary-emphasis">
-    <a button type="button" class="btn btn-secondary btn-lg" href="datamahasiswa.php">Data Mahasiswa</button></a>
+    <a button type="button" class="btn btn-secondary btn-lg" href="dt.php">Data Mahasiswa</button></a>
   </div>
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
 </body>
